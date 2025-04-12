@@ -30,7 +30,7 @@ This repository serves not only as a learning resource for students but also as 
 
 Zhasmin Tuiachieva (Jasmine)  
 📚 Computer Science Major - Big Data Analytics Concentration, NYIT  
-✉️ [Contact](ztuiachi@nyit.edu)
+✉️ Contact: [ztuiachi@nyit.edu]
 
 ## 🛡️ License
 
